@@ -1,8 +1,8 @@
-### Early Readmission Prediction using Random Forest and SMOTE
+# Early Readmission Prediction using Random Forest and SMOTE
 
 This project analyzes a diabetic dataset to predict hospital readmission using machine learning models. The goal is to predict whether a diabetic patient will be readmitted within 30 days based on their medical and demographic data.
 
-## Project Description
+### Project Description
 The project involves:
 
 1. Exploratory Data Analysis (EDA): Understanding dataset features and relationships.
@@ -13,10 +13,10 @@ The project involves:
 
 4. Evaluation: Assessing model performance with accuracy and other metrics.
 
-## Dataset
+### Dataset
 The dataset contains information such as patient demographics, medical history, lab results, and hospital admission details. It is available in Data/diabetic_data.csv.
 
-## Modeling
+### Modeling
 Models: Logistic Regression, Random Forest.
 
 Evaluation metrics: Accuracy, confusion matrix, ROC curve, classification report.
